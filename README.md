@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rustce
+- 👋 Hi, I’m popularly known Online as Ray 
 - 👀 I’m interested in CPP and GoLang
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on any Open source library
